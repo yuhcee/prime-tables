@@ -1,4 +1,4 @@
-# Prime Table
+# Primes Table
 
 This is a simple multiplication table of Prime Numbers built using React and TypeScript.
 
@@ -8,7 +8,7 @@ I didn't necessarily feel that React is the best tool to use for this project.
 I actually feel like it is an overkill for achieving the minimum requirement.
 However, it is the one I am most comfortable with to deliver this as soon as possible, I have decided to use it.
 
-### View Live App 👉 [Prime Table](https://prime-table.netlify.app/)
+### View Live App 👉 [Primes Table](https://prime-tables.netlify.app/)
 
 <br>
 
